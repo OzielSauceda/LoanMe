@@ -1,0 +1,31 @@
+# LoanMe
+
+## Problem
+
+People looking for loans often have to visit
+many different lenders individually.
+
+## Goal
+
+Create a marketplace where users can discover,
+compare, and evaluate loan products in one place.
+
+## MVP Features
+
+- Browse loans
+- Search loans
+- Filter loans
+- View loan details
+- Compare loans
+- Save loans
+
+## Planned Tech Stack
+
+Frontend: React
+Backend: Node.js + Express
+Database: PostgreSQL
+
+## Team
+
+Developer 1: Oziel Sauceda
+Developer 2: Teresa Garza
